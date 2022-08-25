@@ -1,0 +1,14 @@
+===Canvas-Sketch===
+
+Aqui hay una serie de ejercicios en Canvas-Sketch
+para codificacion creativa. Provienen de curso de 
+codificación creativa de Domestika.
+No tienen un fin útil, es expresión artística con código JS.
+
+Para ejecutar las apps no se usa "node xxx",sino que se ejecuta el siguiente comando 
+
+"canvas-sketch REEMPLAZAR_NOMBRE_DEL_SKETCH.js --open"
+
+De esta manera invoca la app y la abre en una tab de cualquier navegador web.
+
+Saludos. Mau. Agosto 25, 2022.
